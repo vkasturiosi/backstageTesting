@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstageTesting
+  annotations:
+    github.com/project-slug: vkasturiosi/backstageTesting
+spec:
+  type: other
+  lifecycle: unknown
